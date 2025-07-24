@@ -47,7 +47,7 @@ This repository contains my **Python** and **SQL** practice problems, created du
 **Sindhupriya Kancharla**
 📧 [sindhupriyakancharla04@gmail.com](mailto:sindhupriyakancharla04@gmail.com)
 🔗 [GitHub](https://github.com/KancharlaSindhupriya)
-🔗 [LinkedIn](https://www.linkedin.com/in/sindhupriyakancharla)
+🔗 [LinkedIn](https://www.linkedin.com/in/sindhu-priya-kancharla-0b6666217/)
 
 
 
